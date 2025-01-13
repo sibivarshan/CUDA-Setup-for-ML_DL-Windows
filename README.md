@@ -1,4 +1,4 @@
-# CUDA installation for traing ml dl models in Laptop's GPU(Windows)
+# CUDA installation for training ml dl models in Laptop's GPU(Windows)
 
 This repository provides a step-by-step guide to set up your environment for training machine learning (ML) and deep learning (DL) models using NVIDIA CUDA on a GPU. Follow these instructions to utilize the full power of your GPU for accelerated computation.
 
